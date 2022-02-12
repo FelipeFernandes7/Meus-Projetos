@@ -1,0 +1,59 @@
+h1 {
+  text-align: center;
+  color: #00fa9a;
+  filter: drop-shadow(0 2px 2px #32cd32);
+  margin-top: 40px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: initial;
+}
+.p {
+  color: #00fa9a;
+}
+
+.img {
+  height: 150px;
+}
+
+.img:hover {
+  height: 160px;
+  filter: drop-shadow(0 4px 4px #32cd32);
+  transition: 0.2s ease-in-out;
+}
+
+.projeto {
+  margin-top: 30px;
+}
+
+.projeto2 {
+  margin-top: 90px;
+}
+footer {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social-media {
+  display: flex;
+}
+.imgs {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  margin-right: 20px;
+  margin-bottom: 70px;
+}
+.imgs:hover{
+    height: 55px;
+    filter: drop-shadow(0 4px 4px #32cd32);
+    transition: 0.2s ease-in-out;
+}
+
+a{
+color: #fff;
+}
